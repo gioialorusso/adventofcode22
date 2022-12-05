@@ -27,5 +27,3 @@ while (($line = fgets($fh)) !== FALSE) {
 foreach($crates as $crate){
     echo array_pop($crate);
 }
-
-exit();

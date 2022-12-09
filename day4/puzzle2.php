@@ -1,3 +1,4 @@
+<?php
 $input_file = 'cleaning.csv';
 $fh = fopen($input_file, 'r');
 $overlaps = 0;

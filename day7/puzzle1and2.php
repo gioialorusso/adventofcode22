@@ -1,3 +1,4 @@
+<?php
 function starts_with($haystack, $needles)
 {
     foreach ((array) $needles as $needle) {

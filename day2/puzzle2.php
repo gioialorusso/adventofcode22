@@ -1,3 +1,4 @@
+<?php
 $input_file = 'rock_scissor_paper.csv';
 $fh = fopen($input_file, 'r');
 $my_total_points = 0;

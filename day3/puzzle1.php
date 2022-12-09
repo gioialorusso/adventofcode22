@@ -1,3 +1,4 @@
+<?php
 $input_file = 'rucksack.csv';
 $fh = fopen($input_file, 'r');
 $total_priority = 0;

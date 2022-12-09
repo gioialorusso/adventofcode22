@@ -1,3 +1,4 @@
+<?php
 $input_file = 'marker.txt';
 $fh = fopen($input_file, 'r');
 $marker_length = 4;

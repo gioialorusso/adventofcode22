@@ -1,3 +1,4 @@
+<?php
 $input_file = 'crates.txt';
 $fh = fopen($input_file, 'r');
 
